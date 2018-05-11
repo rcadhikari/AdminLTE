@@ -1,11 +1,7 @@
 {
-  "name": "admin-lte",
+  "name": "rcadhikari/admin-lte",
   "version": "2.4.3",
   "main": "dist/js/adminlte.min.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
-  },
   "license": "MIT",
   "devDependencies": {
     "R2": "^1.4.3",
